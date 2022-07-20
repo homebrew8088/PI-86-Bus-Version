@@ -1,6 +1,6 @@
 # PI-86-Bus-Version
 8088 V20 Raspberry Pi "hat"
-![alt text](/images/PBC V3.jpg)
+![alt text](/images/PCBV3.jpg)
 
 \
 \
